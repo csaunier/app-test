@@ -1,0 +1,65 @@
+.typographyTypographyH1Bold 
+ {
+  
+  font-family: "{fontFamilies.heading}";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsizesH1);
+  line-height: var(--measureLineHeightLineheightsHeading);
+  letter-spacing: var(--measureLetterSpacingLetterspacingDecreased);
+  text-indent: 0px;
+  
+}    
+
+.typographyTypographyH1Regular 
+ {
+  
+  font-family: "{fontFamilies.heading}";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsizesH1);
+  line-height: var(--measureLineHeightLineheightsHeading);
+  letter-spacing: var(--measureLetterSpacingLetterspacingDecreased);
+  text-indent: 0px;
+  
+}    
+
+.typographyTypographyH2Bold 
+ {
+  
+  font-family: "{fontFamilies.heading}";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsizesH2);
+  line-height: var(--measureLineHeightLineheightsHeading);
+  letter-spacing: var(--measureLetterSpacingLetterspacingDecreased);
+  text-indent: 0px;
+  
+}    
+
+.typographyTypographyH2Regular 
+ {
+  
+  font-family: "{fontFamilies.heading}";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsizesH2);
+  line-height: var(--measureLineHeightLineheightsHeading);
+  letter-spacing: var(--measureLetterSpacingLetterspacingDecreased);
+  text-indent: 0px;
+  
+}    
+
+.typographyTypographyBody 
+ {
+  
+  font-family: "{fontFamilies.body}";
+  font-style: normal;
+  font-weight: 400;
+  font-size: var(--measureFontSizeFontsizesBody);
+  line-height: var(--measureLineHeightLineheightsHeading);
+  letter-spacing: 0px;
+  text-indent: 0px;
+  
+}    
+
