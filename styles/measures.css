@@ -1,0 +1,42 @@
+
+:root {
+    --measureSpacingSpacingScale: 2px;    
+    --measureSpacingSpacingXs: 4px;    
+    --measureSpacingSpacingSm: 1px;    
+    --measureSpacingSpacingMd: 1px;    
+    --measureSpacingSpacingLg: 1px;    
+    --measureSpacingSpacingXl: 1px;    
+    --measureSizingSizingScale: 1.5px;    
+    --measureSizingSizingXs: 4px;    
+    --measureSizingSizingSm: 1px;    
+    --measureSizingSizingMd: 1px;    
+    --measureSizingSizingLg: 1px;    
+    --measureSizingSizingXl: 1px;    
+    --measureBorderWidthBorderwidthNone: 0px;    
+    --measureBorderWidthBorderwidthXs: 1px;    
+    --measureBorderWidthBorderwidthSm: 2px;    
+    --measureBorderWidthBorderwidthMd: 4px;    
+    --measureBorderWidthBorderwidthLg: 8px;    
+    --measureOpacityOpacityLow: 1px;    
+    --measureOpacityOpacityMd: 1px;    
+    --measureOpacityOpacityHigh: 1px;    
+    --measureLineHeightLineheightsHeading: 1px;    
+    --measureLineHeightLineheightsBody: 1px;    
+    --measureLetterSpacingLetterspacingDefault: 0px;    
+    --measureLetterSpacingLetterspacingIncreased: 1px;    
+    --measureLetterSpacingLetterspacingDecreased: 1px;    
+    --measureParagraphSpacingParagraphspacingH1: 32px;    
+    --measureParagraphSpacingParagraphspacingH2: 26px;    
+    --measureFontSizeFontsizesH1: 1px;    
+    --measureFontSizeFontsizesH2: 1px;    
+    --measureFontSizeFontsizesH3: 1px;    
+    --measureFontSizeFontsizesH4: 1px;    
+    --measureFontSizeFontsizesH5: 1px;    
+    --measureFontSizeFontsizesH6: 1px;    
+    --measureFontSizeFontsizesBody: 16px;    
+    --measureFontSizeFontsizesSm: 1px;    
+    --measureFontSizeFontsizesXs: 1px;    
+    --measureBorderWidthBorderwidthButtonGhost: var(--measureBorderWidthBorderwidthMd);    
+    --measureFontSizeFontsizesCardTitle: var(--measureFontSizeFontsizesSm);    
+    --measureFontSizeFontsizesCardContent: var(--measureFontSizeFontsizesXs);    
+}
